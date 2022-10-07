@@ -1,1 +1,1 @@
-shell basics
+this repository contains solutions to shell tasks
