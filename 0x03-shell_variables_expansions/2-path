@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=PATH: /aiction
+echo PATH=PATH:/aiction
